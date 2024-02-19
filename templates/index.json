@@ -1,0 +1,14 @@
+{
+    "name": "Header Group",
+    "sections": {
+        "banner": {
+            "type": "header",
+            "settings": {
+
+            }
+        }
+    },
+    "order": [
+        "banner"
+    ]
+ }
