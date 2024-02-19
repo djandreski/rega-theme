@@ -1,2 +1,2 @@
-# rega-theme
-Custom shopify theme from scratch
+# Rega runners theme
+Modified Dawn theme

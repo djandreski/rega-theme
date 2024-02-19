@@ -35,7 +35,7 @@
                     <li>
                         <a href="#">Help</a>
                     </li>
-                    {% if shop.customer_accounts_enabled && customer %}
+                    {% if shop.customer_accounts_enabled and customer %}
                     <li>
                         <a href="/account">Account</a>
                     </li>
@@ -109,7 +109,7 @@
                     "type": "text",
                     "id": "text",
                     "label": "Text",
-                    "default": "link"
+                    "default": "Link"
                 },
                 {
                     "type": "url",
